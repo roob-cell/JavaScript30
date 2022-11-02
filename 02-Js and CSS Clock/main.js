@@ -1,8 +1,8 @@
 const secondHand = document.querySelector(".second-hand")
 const minHand = document.querySelector(".min-hand")
-cons hourHand = document.querySelector(".hour-hand")
+const hourHand = document.querySelector(".hour-hand")
 
-function  setDate(){
+unction  setDate(){
     const now = new Date()
 
     const seconds = now.getSeconds()
