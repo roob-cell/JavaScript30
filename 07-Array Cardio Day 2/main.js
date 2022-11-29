@@ -60,4 +60,4 @@
 
   console.log(index)
 
-  comments.splice(index, 1)
+  comments.splice(index, 1
