@@ -58,6 +58,6 @@
     }
   })
 
-  console.log(index
+  console.log(index)
 
   comments.splice(index, 1)
