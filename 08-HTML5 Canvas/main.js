@@ -44,3 +44,4 @@ function draw(e){
     }
 
 }
+console.log(draw)
