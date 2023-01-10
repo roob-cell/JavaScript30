@@ -61,3 +61,5 @@
   console.log(index)
 
   comments.splice(index, 1)
+
+  console.log(index)
