@@ -12,3 +12,4 @@ function toogleActive(e){
     this.classList.toggle("open-active")
     }
 }
+console.log(toogleActive)
