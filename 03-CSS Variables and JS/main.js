@@ -5,5 +5,5 @@ inputs.forEach(input => input.addEventListener("mousemove", handleUpdate))
 
 function handleUpdate(){
     const suffix = this.dataset.sizing || ""
-    ocument.documentElement.style.setProperty(`--${this.name}`, this.value + suffix)
+    document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix)
 }
