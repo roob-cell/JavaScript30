@@ -21,3 +21,4 @@ function  setDate(){
 }
 
 setInterval(setDate, 1000)
+console.log(setDate)
