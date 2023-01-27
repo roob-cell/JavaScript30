@@ -101,5 +101,5 @@ const inventors = [
     return obj
   }, {})
   
- 
+ console.log(oldest)
   
